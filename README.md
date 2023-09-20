@@ -36,7 +36,7 @@ Three key datasets for this case study
 
 ## Entity Relationship Diagram (ERD)
 
-![](https://github.com/TheGreatFateemah/8-WEEK-SQL-CHALLENGE---CASE-STUDY-1/blob/main/Danny's%20Diner%20-%20ERD.png)
+![](https://github.com/TheGreatFateemah/8-WEEK-SQL-CHALLENGE---CASE-STUDY-1/blob/main/ERD.JPG)
 
 ## Solution To The Questions
 
