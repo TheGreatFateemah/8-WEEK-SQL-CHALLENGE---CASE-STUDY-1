@@ -3,6 +3,8 @@ This is the first case study of Danny's 8-week SQL challenge.
 
 ## Introduction
 
+![](https://github.com/TheGreatFateemah/8-WEEK-SQL-CHALLENGE---CASE-STUDY-1/blob/main/Image.jpg)
+
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of my assistance to help the restaurant stay afloat - the restaurant has captured some fundamental data from its few months of operation but has no idea how to use their data to help them run the business.
@@ -309,6 +311,13 @@ ORDER BY main.customer_id;
 
 Customer A has 1020 points while Customer B has 560 at the end of January.
 ***
+
+## Conclusion
+
+- Customer A spent $76, B spent $74 while C spent $36.
+- Customer B visited the restaurant most. We can also say that customer B is the most loyal customer.
+- Ramen is the most purchased item on the menu.
+- Customer A and C loves ramen while customer B loves curry because they purchased it the most.
 
 
 
